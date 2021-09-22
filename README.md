@@ -2,6 +2,7 @@
 Daily report page project.
 
 main 1
+main 2
 
 t1 branch
 t1 branch2
